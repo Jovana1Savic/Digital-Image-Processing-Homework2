@@ -11,3 +11,5 @@ This homework implements solutions to 4 problems.
 Functions cnotch and lpfilter are helper functions.
 
 Izvestaj_domaci2 is homework report in which one can see the discussion of the problems and pictures that go along with it. 
+
+The images that are being processed are also given. 
